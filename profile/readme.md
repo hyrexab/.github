@@ -58,7 +58,7 @@ Om du har möjlighet och villighet, uppmuntrar vi dig att bidra till våra proje
 
 **Dokumentation**
 
-Om du använder våra projekt i en professionell kapacitet, se till att dokumentera din användning. Detta hjälper dig och dina kollegor att effektivt dra nytta av projektets fördelar.
+Se till att dokumentera din användning. Detta hjälper dig och dina kollegor att effektivt dra nytta av projektets fördelar.
 
 Kom ihåg att varje projekt kan ha sina egna specifika användningsanvisningar och rekommendationer, så se alltid till att följa de riktlinjer som tillhandahålls i det specifika projekts README-fil och dokumentation.
 
