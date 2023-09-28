@@ -6,10 +6,6 @@ Hyrex AB är en marknadsledande aktör inom ställningsbyggnad med över 40 års
 
 Här på GitHub samlar Hyrex AB data och IT relaterade utvecklingsprojekt.
 
-För frågor eller mer information är du välkommen att kontakta oss via [vår hemsida](www.hyrex.nu). Tack för att du är en del av vårt ställningsbyggnadssamhälle.
-
-Vi ser fram emot att dela våra ställningsbyggnadsinsikter med dig!
-
 ## Målgrupp
 
 Hyrex AB GitHub-organisation riktar sig huvudsakligen till följande målgrupper:
